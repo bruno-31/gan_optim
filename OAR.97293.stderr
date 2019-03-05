@@ -1,0 +1,27 @@
+2019-03-01 16:26:45.384405: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 AVX512F FMA
+2019-03-01 16:26:47.143236: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1105] Found device 0 with properties: 
+name: GeForce RTX 2080 Ti major: 7 minor: 5 memoryClockRate(GHz): 1.635
+pciBusID: 0000:d8:00.0
+totalMemory: 10.73GiB freeMemory: 10.53GiB
+2019-03-01 16:26:47.143304: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 16:26:52.726033: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 16:42:24.836016: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 16:42:26.426759: W tensorflow/core/framework/op_def_util.cc:343] Op BatchNormWithGlobalNormalization is deprecated. It will cease to work in GraphDef version 9. Use tf.nn.batch_normalization().
+2019-03-01 17:01:31.061975: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 17:20:35.306664: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 17:39:40.006220: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 17:58:42.637010: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 18:17:44.445973: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 18:36:45.681063: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 18:55:47.210923: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 19:14:52.173694: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 19:33:56.036390: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 19:52:59.137015: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 20:11:59.441339: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 20:31:09.735780: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 20:49:34.572401: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 21:06:21.777715: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 21:23:04.346872: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 21:40:48.304395: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 21:59:25.382941: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
+2019-03-01 22:17:23.898986: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce RTX 2080 Ti, pci bus id: 0000:d8:00.0, compute capability: 7.5)
